@@ -1,0 +1,94 @@
+@media screen and (max-width: 991px) {
+    .hero-title h1 {
+        font-size: 34px;
+    }
+    .hero-content {
+        top: 30%;
+        left: 0;
+        right: 0;
+    }
+    .myname {
+        font-size: 35px;
+    }
+    .mi-service {
+        margin: 10px 0;
+    }
+    .hero-bg {
+        background-position: center left;
+    }
+    .hero-title {
+        width: 100%;
+        margin: auto;
+    }
+    .hero-mask {
+        opacity: 0.9;
+    }
+    .about-sec h2 {
+        font-size: 90px;
+    }
+    .about-sec p {
+        font-size: 30px;
+    }
+    .about-sec span {
+        bottom: 35px;
+    }
+    .header-nav a.navbar-brand {
+        margin-left: 30px;
+    }
+    .header-toggle {
+        position: absolute !important;
+        left: 0;
+        top: 13px;
+    }
+    .header-toggle svg {
+        fill: #000;
+        font-size: 16px;
+    }
+    .header-nav.header-sidebar .navbar-nav {
+        flex-direction: column;
+        width: 100%;
+        justify-content: center;
+        padding-left: 30px;
+        padding-top: 30px;
+    }
+    .header-nav.header-sidebar .navbar-nav .nav-link {
+        padding: 7px 0 !important;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+    .header-nav a.navbar-brand {
+        padding-left: 20px;
+    }
+    .hero-content {
+        top: 20%;
+    }
+    .about-sec h2 {
+        font-size: 75px;
+    }
+    .about-sec p {
+        font-size: 25px;
+    }
+    .about-sec span {
+        bottom: 32px;
+    }
+    .mi-resume-summary {
+        flex: 0 0 100px;
+        max-width: 150px;
+    }
+    .mi-resume-details h5 {
+        font-size: 19px;
+    }
+    .mi-resume-details h6 {
+        font-size: 14px;
+    }
+    .mi-resume-details ul li {
+        font-size: 14px;
+    }
+    .mi-resume-details p {
+        font-size: 14px;
+    }
+    .contact-left {
+        margin-bottom: 20px;
+    }
+}
