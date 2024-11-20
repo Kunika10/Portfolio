@@ -103,7 +103,7 @@ function Home() {
                                         <span className='myname'>I'm
                                             <span className='myname-ml'>Kunika Gupta</span>
                                         </span>
-                                        <p className='about-para'>A skilled and creative UX/UI Designer from Indore, Madhya Pradesh, India. With a background in Chemical Engineering, I found my true passion in web design and development. Proficient in HTML5, CSS3, WordPress, Bootstrap, and JavaScript, I create visually appealing and user-friendly interfaces that follow the latest UX/UI best practices. </p>
+                                        <p className='about-para'>A skilled and creative UX/UI Designer from Gwalior, Madhya Pradesh, India. With a background in Chemical Engineering, I found my true passion in web design and development. Proficient in HTML5, CSS3, WordPress, Bootstrap, and JavaScript, I create visually appealing and user-friendly interfaces that follow the latest UX/UI best practices. </p>
                                         <p className='about-para'>My dedication to clean and well-documented code ensures efficient and optimized web solutions. With certifications in digital marketing, soft skills, data science, and Adobe software, I strive to stay updated with industry trends. I am committed to contributing my technical and analytical skills to meaningful projects and advancing my career in web design.</p>
                                     </div>
                                 </Col>
@@ -117,7 +117,7 @@ function Home() {
                                                 <span>Email:</span> guptakunika10@gmail.com
                                             </li>
                                             <li className='border-0'>
-                                                <span>From:</span> Indore, Madhya Pradesh
+                                                <span>From:</span> Gwalior, Madhya Pradesh
                                             </li>
                                         </ul>
                                         <Link to={resume} download="Kunika-Gupta-Resume" target="_blank">Download CV</Link>
@@ -192,9 +192,9 @@ function Home() {
                                 <h4>Working Experience</h4>
                             </div>
                             <div className='mi-resume-wrapper'>
-                                <div className='mi-resume'>
+                <div className='mi-resume'>
                                     <div className='mi-resume-summary'>
-                                        <h6>2022 - Present</h6>
+                                        <h6>11/2023 - Present</h6>
                                     </div>
                                     <div className='mi-resume-details'>
                                         <h5>HTML & UX/UI Developer</h5>
@@ -210,7 +210,23 @@ function Home() {
                                 </div>
                                 <div className='mi-resume'>
                                     <div className='mi-resume-summary'>
-                                        <h6>2021 - 2022</h6>
+                                        <h6>01/2023 - 10/2023</h6>
+                                    </div>
+                                    <div className='mi-resume-details'>
+                                        <h5>HTML & UX/UI Developer</h5>
+                                        <h6>Innovins Softtech Private Limited</h6>
+                                        <ul>
+                                            <li>Develop and maintain high-quality, responsive web pages and applications using HTML, CSS, and JavaScript.</li>
+                                            <li>Creating and maintaining design systems, style guides, and other design-related documentation.</li>
+                                            <li>Ensure that all web pages and applications are optimized for speed and performance.</li>
+                                            <li>Test and debug code to ensure that web pages and applications work correctly on various devices and screen sizes.</li>
+                                            <li>Using version control systems like Git to manage code.</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div className='mi-resume'>
+                                    <div className='mi-resume-summary'>
+                                        <h6>12/2021 - 11/2022</h6>
                                     </div>
                                     <div className='mi-resume-details'>
                                         <h5>UI Developer</h5>
