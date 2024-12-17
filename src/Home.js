@@ -103,7 +103,7 @@ function Home() {
                                         <span className='myname'>I'm
                                             <span className='myname-ml'>Kunika Gupta</span>
                                         </span>
-                                        <p className='about-para'>A skilled and creative UX/UI Designer from Gwalior, Madhya Pradesh, India. With a background in Chemical Engineering, I found my true passion in web design and development. Proficient in HTML5, CSS3, WordPress, Bootstrap, and JavaScript, I create visually appealing and user-friendly interfaces that follow the latest UX/UI best practices. </p>
+                                        <p className='about-para'>A skilled and creative UX/UI Designer and Frontend Developer from Gwalior, Madhya Pradesh, India. With a background in Chemical Engineering, I found my true passion in web design and development. Proficient in HTML5, CSS3, WordPress, Bootstrap, JavaScript, and ReactJs. I create visually appealing and user-friendly interfaces that follow the latest UX/UI best practices. </p>
                                         <p className='about-para'>My dedication to clean and well-documented code ensures efficient and optimized web solutions. With certifications in digital marketing, soft skills, data science, and Adobe software, I strive to stay updated with industry trends. I am committed to contributing my technical and analytical skills to meaningful projects and advancing my career in web design.</p>
                                     </div>
                                 </Col>
@@ -197,14 +197,13 @@ function Home() {
                                         <h6>11/2023 - Present</h6>
                                     </div>
                                     <div className='mi-resume-details'>
-                                        <h5>HTML & UX/UI Developer</h5>
-                                        <h6>Innovins Softtech Private Limited</h6>
+                                        <h5>UX/UI Developer and Designer</h5>
+                                        <h6>Freelancer</h6>
                                         <ul>
-                                            <li>Develop and maintain high-quality, responsive web pages and applications using HTML, CSS, and JavaScript.</li>
-                                            <li>Creating and maintaining design systems, style guides, and other design-related documentation.</li>
-                                            <li>Ensure that all web pages and applications are optimized for speed and performance.</li>
-                                            <li>Test and debug code to ensure that web pages and applications work correctly on various devices and screen sizes.</li>
-                                            <li>Using version control systems like Git to manage code.</li>
+                                            <li>Modernized and optimized responsive websites and dashboards using HTML5, CSS3, JavaScript, and Reactjs devices for usability.</li>
+                                            <li>Enhanced reusable UI components, reducing development cycles by 25% and improving scalability for multi-platform applications.</li>
+                                            <li>Delivered client-approved wireframes and high-fidelity mockups using Figma, achieving a 98% satisfaction rate.</li>
+                                            <li>Conducted usability testing with 20+ users, incorporating feedback to refine interfaces and improve interaction flow, resulting in a 15% increase in user engagement.</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -216,11 +215,11 @@ function Home() {
                                         <h5>HTML & UX/UI Developer</h5>
                                         <h6>Innovins Softtech Private Limited</h6>
                                         <ul>
-                                            <li>Develop and maintain high-quality, responsive web pages and applications using HTML, CSS, and JavaScript.</li>
-                                            <li>Creating and maintaining design systems, style guides, and other design-related documentation.</li>
-                                            <li>Ensure that all web pages and applications are optimized for speed and performance.</li>
-                                            <li>Test and debug code to ensure that web pages and applications work correctly on various devices and screen sizes.</li>
-                                            <li>Using version control systems like Git to manage code.</li>
+                                            <liBuilt and maintained high-quality, responsive web applications using HTML5, CSS3, and jQuery.</li>
+                                            <li>Created design systems to standardize branding, boosting team efficiency by 30%.</li>
+                                            <li>Performed cross-browser testing across 5+ platforms, ensuring 100% compatibility and seamless functionality for both desktop and mobile devices.</li>
+                                            <li>Optimized website performance, reducing load times by 40% and enhancing navigation.</li>
+                                            <li>Resolved front-end issues collaboratively, improving debugging efficiency by 50%.</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -232,10 +231,10 @@ function Home() {
                                         <h5>UI Developer</h5>
                                         <h6>Task Source Private Limited</h6>
                                         <ul>
-                                            <li>Customized website development service that is responsive and secure for all screens, big or small.</li>
-                                            <li>Manage categories, subcategories, products, reviews, promotions, and more. (Related to United States Website).</li>
-                                            <li>Converting mockups into HTML CSS pages.</li>
-                                            <li>Conducting Design testing to check designs that need to be aligned with Design System.</li>
+                                            <li>Developed secure, responsive e-commerce platforms, increasing mobile traffic by 15%.</li>
+                                            <li>Maintained product categories, promotions, and reviews for online interfaces, driving a 12% increase in sales.</li>
+                                            <li>Translated mockups into functional, pixel-perfect web pages with HTML5/CSS3.</li>
+                                            <li>Improved user navigation flow, resulting in a 10% increase in page views per session.</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -307,7 +306,7 @@ function Home() {
                                     <div className='skillsimgwrapper'>
                                         <img src={react} />
                                     </div>
-                                    <h4>React UI Design</h4>
+                                    <h4>React JS</h4>
                                 </div>
                                 <div className='allskill'>
                                     <div className='skillsimgwrapper'>
