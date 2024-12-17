@@ -215,7 +215,7 @@ function Home() {
                                         <h5>HTML & UX/UI Developer</h5>
                                         <h6>Innovins Softtech Private Limited</h6>
                                         <ul>
-                                            <liBuilt and maintained high-quality, responsive web applications using HTML5, CSS3, and jQuery.</li>
+                                            <li>Built and maintained high-quality, responsive web applications using HTML5, CSS3, and jQuery.</li>
                                             <li>Created design systems to standardize branding, boosting team efficiency by 30%.</li>
                                             <li>Performed cross-browser testing across 5+ platforms, ensuring 100% compatibility and seamless functionality for both desktop and mobile devices.</li>
                                             <li>Optimized website performance, reducing load times by 40% and enhancing navigation.</li>
