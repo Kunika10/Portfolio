@@ -2,7 +2,7 @@ import React from 'react';
 import { Col, Container, Form, Row } from 'react-bootstrap';
 import Slider from "react-slick";
 import { Link } from 'react-router-dom';
-import resume from './assets/Kunika-Gupta-Resume.pdf';
+import resume from './assets/Kunika Gupta _Resume.pdf';
 import design from './assets/images/web-design.png';
 import developer from './assets/images/developer.png';
 import work from './assets/images/work.png';
