@@ -192,28 +192,13 @@ function Home() {
                                 <h4>Working Experience</h4>
                             </div>
                             <div className='mi-resume-wrapper'>
-                <div className='mi-resume'>
-                                    <div className='mi-resume-summary'>
-                                        <h6>11/2023 - Present</h6>
-                                    </div>
-                                    <div className='mi-resume-details'>
-                                        <h5>UX/UI Developer and Designer</h5>
-                                        <h6>Freelancer</h6>
-                                        <ul>
-                                            <li>Modernized and optimized responsive websites and dashboards using HTML5, CSS3, JavaScript, and Reactjs devices for usability.</li>
-                                            <li>Enhanced reusable UI components, reducing development cycles by 25% and improving scalability for multi-platform applications.</li>
-                                            <li>Delivered client-approved wireframes and high-fidelity mockups using Figma, achieving a 98% satisfaction rate.</li>
-                                            <li>Conducted usability testing with 20+ users, incorporating feedback to refine interfaces and improve interaction flow, resulting in a 15% increase in user engagement.</li>
-                                        </ul>
-                                    </div>
-                                </div>
                                 <div className='mi-resume'>
                                     <div className='mi-resume-summary'>
-                                        <h6>01/2023 - 10/2023</h6>
+                                        <h6>12/2022 - Present</h6>
                                     </div>
                                     <div className='mi-resume-details'>
-                                        <h5>HTML & UX/UI Developer</h5>
-                                        <h6>Innovins Softtech Private Limited</h6>
+                                        <h5>Software Developer</h5>
+                                        <h6>Webcoir IT Solution Private Limited</h6>
                                         <ul>
                                             <li>Built and maintained high-quality, responsive web applications using HTML5, CSS3, and jQuery.</li>
                                             <li>Created design systems to standardize branding, boosting team efficiency by 30%.</li>
